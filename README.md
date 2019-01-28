@@ -2,6 +2,8 @@
 
 ## Queries
 
+Url: http://localhost:3000/graphql
+
 ```
 {
   author(id: 23) {
